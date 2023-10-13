@@ -3,7 +3,7 @@
 - [Démarrer le projet](#Démarrer-le-projet)
   - [Prérequis](#prérequis)
   - [Installation](#installation)
-- [About the Project](#about-the-project)
+- [A propos du projet](#A-propos-du-projet)
 
 ## Démarrer le projet
 
